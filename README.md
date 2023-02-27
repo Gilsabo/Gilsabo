@@ -14,4 +14,4 @@ I have experience with HTML, CSS, and JavaScript, as well as some frameworks and
 - Problem Solving
 
 ## Contact Me
-You can contact me via email at gilsala_88@hotmail.com or connect with me on [LinkedIn](linkedin.com/in/gil-sala-bordallo-3a6740111)
+You can contact me via email at gilsala_88@hotmail.com or connect with me on LinkedIn
