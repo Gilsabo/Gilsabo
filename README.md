@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Gil!
-**Full Stack Developer** currently based in Vienna, Austria.
+a **Full Stack Developer** currently based in Vienna, Austria.
 
 - 👩🏻‍💻 I’m **currently working on** [tennisflow](https://github.com/Gilsabo/tennisflow), a React and Next.js application for tennis enthusiasts. The platform facilitates the upload of personal videos, fostering a community where users can exchange constructive feedback with their peers, collectively working towards improvement.
 - 🔧 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PosgreSQL**, but 🧠 I am always learning new technologies and growing my tech stack.
