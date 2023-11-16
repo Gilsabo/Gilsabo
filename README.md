@@ -21,7 +21,8 @@
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
 <br/>
+
 ### Connect with me:
     <a href="https://linkedin.com/in/gil-sala-bordallo" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gil sala bordallo linkedin" height="28px" width="28px" />
-  </a>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gil sala bordallo linkedin" height="28px" width="28px" />
+    </a>
