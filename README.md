@@ -23,8 +23,8 @@
 <br/>
 
 ### Connect with me:
-    <a href="https://linkedin.com/in/gil-sala-bordallo" target="blank">
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gil sala bordallo linkedin" height="28px" width="28px" />](https://linkedin.com/in/gil-sala-bordallo)
-</a>
+  <a href="https://linkedin.com/in/elenacoazzoli" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elena coazzoli linkedin" height="28px" width="28px" />
+  </a>
 
     
