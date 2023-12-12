@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Gil!
 a **Full Stack Developer** based in Vienna, Austria.
 
-- 👩🏻‍💻 I’m **currently working on** [tennisflow](https://github.com/Gilsabo/tennisflow), a React and Next.js application for tennis enthusiasts. The app allows users the upload of tennis training videos, fostering a community where users can exchange constructive feedback with their peers, collectively working towards improvement.
-- 🔧 I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PosgreSQL**, but I am always learning new technologies and growing my tech stack.
-- 🌱 Passionate about tennis, food, and languages.
+- I’m **currently working on** [tennisflow](https://github.com/Gilsabo/tennisflow), a React and Next.js application for tennis enthusiasts. The app allows users the upload of tennis training videos, fostering a community where users can exchange constructive feedback with their peers, collectively working towards improvement.
+- I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PosgreSQL**, but I am always learning new technologies and growing my tech stack.
+- Passionate about tennis, food, and languages.
 
 ### Languages and Tools:
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
