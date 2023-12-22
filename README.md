@@ -2,7 +2,7 @@
 a **Full Stack Developer** based in Vienna, Austria.
 
 - My **latest project is** [tennisflow](https://github.com/Gilsabo/tennisflow), a React and Next.js application for tennis enthusiasts. The app allows users the upload of tennis training videos, fostering a community where users can exchange constructive feedback with their peers, collectively working towards improvement.
-- I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PosgreSQL**, but I am always learning new technologies and growing my tech stack (getting hands dirty with Angular right now).
+- I'm currently developing with **JavaScript, TypeScript, React, Next.js, Node.js and PostgreSQL**, but I am always learning new technologies and growing my tech stack (getting hands dirty with Angular right now).
 - Passionate about tennis, food, and languages.
 
 ### Languages and Tools:
