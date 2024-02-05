@@ -29,5 +29,6 @@ a **Full Stack Developer** based in Vienna, Austria.
   <a href="https://linkedin.com/in/gil-sala-bordallo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gil sala bordallo" height="28px" width="28px" />
   </a>
+  <script src="https://gist.github.com/yusitnikov/0f6a4b471c31a64da1dca35aa35b7e87.js"></script>
 
     
