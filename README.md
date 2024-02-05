@@ -31,7 +31,7 @@ a **Full Stack Developer** based in Vienna, Austria.
   </a>
   
   <a href="mailto:gilsala_88@hotmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/TheEssem/FocialMix/dev/src/envelope.svg" width="28px" height="28px">
+    <img src="https://raw.githubusercontent.com/TheEssem/FocialMix/dev/src/envelope.svg" alt ="envelope" width="28px" height="28px">
   </a>
 
 
