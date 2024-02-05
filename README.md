@@ -31,7 +31,7 @@ a **Full Stack Developer** based in Vienna, Austria.
   </a>
 
   <a href="mailto:gilsala_88@hotmail.com" target="_blank">
-  <img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" alt="Send Email" height="28px" width="28px" />
+  <img align="center" src="https://www.svgrepo.com/svg/522399/envelope-closed" alt="Send Email" height="28px" width="28px" />
 </a>
 
 
