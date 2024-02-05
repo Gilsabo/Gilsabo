@@ -29,6 +29,7 @@ a **Full Stack Developer** based in Vienna, Austria.
   <a href="https://linkedin.com/in/gil-sala-bordallo" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gil sala bordallo" height="28px" width="28px" />
   </a>
+  
   <a href="mailto:gilsala_88@hotmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/TheEssem/FocialMix/dev/src/envelope.svg" width="28px" height="28px">
   </a>
