@@ -30,8 +30,9 @@ a **Full Stack Developer** based in Vienna, Austria.
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gil sala bordallo" height="28px" width="28px" />
   </a>
 
-  <a href="mailto:gilsala_88@hotmail.com" target="_blank">
-  <?xml version="1.0" encoding="iso-8859-1"?>
+<a href="mailto:gilsala_88@hotmail.com" target="_blank">
+  <img src="data:image/svg+xml;utf8,<?xml version='1.0' encoding='ISO-8859-1'?>
+    <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -55,8 +56,40 @@ a **Full Stack Developer** based in Vienna, Austria.
 			V184.437C503.441,193.569,493.927,201.854,483.072,209.275z"/>
 	</g>
 </g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
 </svg>
+  " alt="Email Icon" width="511.626" height="511.626">
 </a>
+
 
 
     
