@@ -21,12 +21,12 @@ a **Full Stack Developer** based in Vienna, Austria.
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-<img align="left" alte="playwright" width="26px" src="https://playwright.dev/img/playwright-logo.svg" />
+<img align="left" alt="playwright" width="26px" src="https://playwright.dev/img/playwright-logo.svg" />
 <br/>
 
 ### Connect with me:
   <a href="https://linkedin.com/in/gil-sala-bordallo" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gil sala bordallo" height="28px" width="28px"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gil sala bordallo" height="28px" width="28px style="filter: invert(51%) sepia(78%) saturate(5848%) hue-rotate(204deg) brightness(106%) contrast(105%)"/>
   </a>
   
 
