@@ -30,11 +30,3 @@ a **Full Stack Developer** based in Vienna, Austria.
   </a>
   
 
-
-
-  
-
-
-
-
-    
